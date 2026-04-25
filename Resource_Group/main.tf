@@ -3,6 +3,7 @@ resource "azurerm_resource_group" "rg_block" {
   location   = "Central India"
   managed_by = "Devops_Bhagwa"
   tags = {
-    "enviroment" = "dev"
-  "Client Name" = "Alpha" }
+    "enviroment"  = "dev"
+    "Client Name" = "Alpha"
+  }
 }

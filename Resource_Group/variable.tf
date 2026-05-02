@@ -7,5 +7,5 @@ variable "env" {                # Declared a Variable here for ENV
 variable "name" {
   type        = string
   description = "Name of the resource group"
-  default     = "BlueStar"
+  default     = "BlueStarDev1"
 }

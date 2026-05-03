@@ -1,11 +1,18 @@
-variable "env" {                # Declared a Variable here for ENV
-  type        = string
-  description = "Environment to be used for the resource group name"
-  default     = "dev"
+variable "name" {
+  type        = list(string)
+  description = "Name of the resource group"
+
 }
 
-variable "name" {
-  type        = string
-  description = "Name of the resource group"
-  default     = "BlueStarDev1"
+variable "location" {
+  type        = list(string)
+}
+
+
+variable "rgName" {
+  type        = map(object({
+    name     = string
+    location = string
+  }))
+  description = "Name of the Resource Group"
 }

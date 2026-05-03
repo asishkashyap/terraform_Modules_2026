@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="hUKJ1crR5F_qVZzrWe5w">
-    <mxGraphModel dx="1979" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,13 +245,13 @@
         <mxCell id="PyWANM-m2GmvQ26y1tC4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Attach" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="PyWANM-m2GmvQ26y1tC4-80" edge="1" parent="1" source="PyWANM-m2GmvQ26y1tC4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PyWANM-m2GmvQ26y1tC4-79" value="">
+        <mxCell id="PyWANM-m2GmvQ26y1tC4-80" edge="1" parent="1" source="PyWANM-m2GmvQ26y1tC4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" target="PyWANM-m2GmvQ26y1tC4-79" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyWANM-m2GmvQ26y1tC4-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Git" vertex="1">
+        <mxCell id="PyWANM-m2GmvQ26y1tC4-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Git" vertex="1">
           <mxGeometry height="30" width="95" x="118" y="2170" as="geometry" />
         </mxCell>
-        <mxCell id="PyWANM-m2GmvQ26y1tC4-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Version Control System" vertex="1">
+        <mxCell id="PyWANM-m2GmvQ26y1tC4-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Version Control System" vertex="1">
           <mxGeometry height="30" width="95" x="159" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="PyWANM-m2GmvQ26y1tC4-83" edge="1" parent="1" source="PyWANM-m2GmvQ26y1tC4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PyWANM-m2GmvQ26y1tC4-84">
@@ -265,10 +265,10 @@
         <mxCell id="PyWANM-m2GmvQ26y1tC4-81" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="60" width="30" x="500" y="2170" as="geometry" />
         </mxCell>
-        <mxCell id="PyWANM-m2GmvQ26y1tC4-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Code Develop&amp;nbsp;" vertex="1">
+        <mxCell id="PyWANM-m2GmvQ26y1tC4-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Code Develop&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="359.5" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="PyWANM-m2GmvQ26y1tC4-93" edge="1" parent="1" source="PyWANM-m2GmvQ26y1tC4-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PyWANM-m2GmvQ26y1tC4-90">
+        <mxCell id="PyWANM-m2GmvQ26y1tC4-93" edge="1" parent="1" source="PyWANM-m2GmvQ26y1tC4-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PyWANM-m2GmvQ26y1tC4-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="2085" />
@@ -512,6 +512,72 @@
         </mxCell>
         <mxCell id="xwsnDF7bt717dxHIW8KD-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="main.tf- Generic code" vertex="1">
           <mxGeometry height="40" width="95" x="312" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-3" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BfwxjRCbxDbaopxAnay1-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-5" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BfwxjRCbxDbaopxAnay1-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Multiple Resource Group" vertex="1">
+          <mxGeometry height="40" width="155" x="327" y="4380" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Count" vertex="1">
+          <mxGeometry height="60" width="120" x="185" y="4470" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="For Each" vertex="1">
+          <mxGeometry height="60" width="120" x="509.5" y="4470" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-12" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BfwxjRCbxDbaopxAnay1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-13" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BfwxjRCbxDbaopxAnay1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Terraform" vertex="1">
+          <mxGeometry height="120" width="115" x="339.5" y="4440" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-9" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BfwxjRCbxDbaopxAnay1-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-7" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#6c8ebf;strokeColor2=#008cff;fillColor=#dae8fc;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="50" y="4430" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-10" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="BfwxjRCbxDbaopxAnay1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#9673a6;shadow=0;dashed=0;strokeWidth=1;fillColor=#e1d5e7;" value="Make 4 RGs" vertex="1">
+          <mxGeometry height="30" width="99.5" x="110" y="4635" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-11" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" target="BfwxjRCbxDbaopxAnay1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-16" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BfwxjRCbxDbaopxAnay1-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Count" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="4700" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Count allows to deploy multiple resources using counts i.e. Server1, Server2, Server3.....&lt;br&gt;User1, User2, User3......." vertex="1">
+          <mxGeometry height="70" width="350" x="194.5" y="4810" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;" value="&quot;Vegetable basket&quot;= {&lt;div&gt;&quot;Red Vegetable&quot; = {&quot;capsicum&quot; = &quot;250gm&quot;, &quot;chillies&quot; = &quot;100gm&quot;},&lt;/div&gt;&lt;div&gt;&quot;Green Vegetables&quot; = {&quot;spinach&quot; = &quot;2kg&quot;, &quot;cucumber&quot;= 3, &quot;bottle guard&quot; = &quot;4kg&quot;, &quot;lady finger&quot;= &quot;1kg&quot;}&lt;/div&gt;&lt;div&gt;}&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="295" x="222.5" y="4900" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;ul&gt;&lt;li&gt;vegetable basket.redVegetabel = capsicum, chillies&lt;/li&gt;&lt;li&gt;vegetableBasket.greenVegetables = spinach, cucumber, bottle guard, lady finger&lt;/li&gt;&lt;li&gt;vegetable basket.redVegetabel.capsicum = 250gm&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="130" width="375.5" x="182.25" y="5040" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Chaining" vertex="1">
+          <mxGeometry height="30" width="99" x="91" y="4740" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-23" edge="1" parent="1" source="BfwxjRCbxDbaopxAnay1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" target="BfwxjRCbxDbaopxAnay1-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="For Each" vertex="1">
+          <mxGeometry height="80" width="168.75" x="311.25" y="5220" as="geometry" />
+        </mxCell>
+        <mxCell id="BfwxjRCbxDbaopxAnay1-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Loop that reads variables defined values as &#39;Key&#39; or &#39;Values&#39; form." vertex="1">
+          <mxGeometry height="50" width="175.62" x="324.38" y="5360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

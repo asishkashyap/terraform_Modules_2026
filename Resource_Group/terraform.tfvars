@@ -6,16 +6,16 @@ location = ["central india", "east us"]
 
 # For each variables defined
 rgName = {
-  rg1 = {
-    "name"     = "rg-hcl-dev"
-    "location" = "west us"
-  },
-  rg2 = {
-    "name"     = "rg--hcl-test"
-    "location" = "central india"
-  },
-  rg3 = {
-    "name"     = "rg-hcl-prod"
-    "location" = "central india"
-  }
+        rg1 = {
+          "name"     = "rg-hcl-dev"
+          "location" = "west us"
+        },
+        rg2 = {
+          "name"     = "rg--hcl-test"
+          "location" = "central india"
+        },
+        rg3 = {
+          "name"     = "rg-hcl-prod"
+          "location" = "central india"
+        }
 }

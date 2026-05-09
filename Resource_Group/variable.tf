@@ -5,12 +5,12 @@ variable "name" {
 }
 
 variable "location" {
-  type        = list(string)
+  type = list(string)
 }
 
 
 variable "rgName" {
-  type        = map(object({
+  type = map(object({
     name     = string
     location = string
   }))

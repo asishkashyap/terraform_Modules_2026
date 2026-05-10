@@ -13,9 +13,24 @@ rgName = {
   rg2 = {
     "name"     = "rg-hcl-test"
     "location" = "central india"
+  }
+}
+
+vnet_hcl = {
+  v1 = {
+    name = "hcl-dev",
+    address_space = ["10.0.0.0/16"],
+    dns_servers = ["10.0.0.4", "10.0.0.5"],
+    sub_name         = "sub-hcl"
+    address_prefixes = ["10.0.1.0/24", "10.0.2.0/24"]
+    location         = "central india"
   },
-  rg3 = {
-    "name"     = "rg-hcl-prod"
-    "location" = "central india"
+  v2 = {
+    name = "hcl-test",
+    address_space = ["10.0.0.0/16"],
+    dns_servers = ["10.0.0.4", "10.0.0.5"],
+    sub_name         = "sub-hcl"
+    address_prefixes = ["10.0.1.0/24", "10.0.2.0/24"]
+    location         = "west us"
   }
 }

@@ -16,14 +16,6 @@ resource "azurerm_resource_group" "rg_block_Count" {
 }
 
 
-
-
-# resource "azurerm_resource_group" "rg_hcl" {
-#   name     = "rg-hcl-test"
-#   location = "central india"
-# }
-
-
 # Below code is for creating Resource Group using For_Each Meta Argument
 resource "azurerm_resource_group" "rg_block_forEach" {
   for_each = var.vnet_hcl # har ek ke liye

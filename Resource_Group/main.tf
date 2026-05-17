@@ -66,22 +66,20 @@ resource "azurerm_virtual_network" "vnet_block_forEach" {
   address_space       = each.value.address_space
   dns_servers         = each.value.dns_servers
 
-  subnet {
-    name             = "${each.value.sub_name}-frontend"
-    address_prefixes = [each.value.address_prefixes[0]]
-    security_group   = azurerm_network_security_group.nsg_hcl[each.key].id
-  }
-
-  subnet {
-    name             = "${each.value.sub_name}-backend"
-    address_prefixes = [each.value.address_prefixes[1]]
-    security_group   = azurerm_network_security_group.nsg_hcl[each.key].id #Implicit Dependency
+  dynamic "subnet" {
+    for_each = each.value.subnet
+    content  {
+      name             = subnet.value.name
+      address_prefixes = subnet.value.address_prefixes
+      security_group   = azurerm_network_security_group.nsg_hcl[each.key].id
+    }
   }
 
   tags = {
     environment = "Test"
   }
 }
+
 
 
 

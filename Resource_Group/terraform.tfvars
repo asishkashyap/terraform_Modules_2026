@@ -18,12 +18,23 @@ rgName = {
 
 vnet_hcl = {
   v1 = {
-    name             = "hcl-dev",
-    address_space    = ["10.0.0.0/16"],
-    dns_servers      = ["10.0.0.4", "10.0.0.5"],
-    sub_name         = "sub-hcl"
-    address_prefixes = ["10.0.1.0/24", "10.0.2.0/24"]
-    location         = "central india"
+    name          = "hcl-dev",
+    address_space = ["10.0.0.0/16"],
+    dns_servers   = ["10.0.0.4", "10.0.0.5"],
+    location      = "central india"
+
+    subnet = {
+      subnet1 = {
+        name             = "frontend"
+        address_prefixes = ["10.0.1.0/24"]
+        security_group   = "nsg-hcl-dev"
+      }
+      subnet2 = {
+        name             = "backend"
+        address_prefixes = ["10.0.2.0/24"]
+        security_group   = "nsg-hcl-dev"
+      }
+    }
 
     security_rule = {
       rule1 = {
@@ -51,12 +62,23 @@ vnet_hcl = {
     }
   },
   v2 = {
-    name             = "hcl-test",
-    address_space    = ["10.0.0.0/16"],
-    dns_servers      = ["10.0.0.4", "10.0.0.5"],
-    sub_name         = "sub-hcl"
-    address_prefixes = ["10.0.1.0/24", "10.0.2.0/24"]
-    location         = "west us"
+    name          = "hcl-test",
+    address_space = ["10.0.0.0/16"],
+    dns_servers   = ["10.0.0.4", "10.0.0.5"],
+    location      = "west us"
+
+    subnet = {
+      subnet1 = {
+        name             = "frontend"
+        address_prefixes = ["10.0.1.0/24"]
+        security_group   = "nsg-hcl-test"
+      },
+      subnet2 = {
+        name             = "backend"
+        address_prefixes = ["10.0.2.0/24"]
+        security_group   = "nsg-hcl-test"
+      }
+    }
 
     security_rule = {
       rule1 = {

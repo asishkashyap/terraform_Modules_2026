@@ -23,9 +23,13 @@ variable "vnet_hcl" {
     name             = string
     address_space    = list(string)
     dns_servers      = list(string)
-    sub_name         = string
-    address_prefixes = list(string)
     location         = string
+
+    subnet = map(object({
+      name             = string
+      address_prefixes = list(string)
+      security_group   = string
+    }))
 
     security_rule = map(object({
       name                       = string

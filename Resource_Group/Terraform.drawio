@@ -1353,7 +1353,7 @@
           <mxGeometry height="267.5" width="264" x="477.38" y="11152.5" as="geometry" />
         </mxCell>
         <mxCell id="6nHnFbn3s94o70daJpBf-4" parent="6nHnFbn3s94o70daJpBf-8" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;10.3.6.0&lt;/span&gt;" vertex="1">
-          <mxGeometry height="110" width="115.5" x="128" y="37.5" as="geometry" />
+          <mxGeometry height="110" width="115.5" x="126.87" y="37.5" as="geometry" />
         </mxCell>
         <mxCell id="6nHnFbn3s94o70daJpBf-12" edge="1" parent="1" source="6nHnFbn3s94o70daJpBf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="6nHnFbn3s94o70daJpBf-11" value="">
           <mxGeometry relative="1" as="geometry" />

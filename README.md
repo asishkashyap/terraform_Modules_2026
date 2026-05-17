@@ -6,7 +6,7 @@ The ultimate goal of this repository is to create a fully automated infrastructu
 
 ## 🗺️ Project Roadmap
 
-- [ ] **Foundation Modules**: Create base modules for core resources (Resource Groups, VNets, NSGs).
+- [x] **Foundation Modules**: Create base modules for core resources (Resource Groups, VNets, NSGs).
 - [ ] **Expanded Resource Modules**: Develop additional modular configurations for complex Azure resources (e.g., AKS, Storage Accounts, Databases).
 - [ ] **Environment Segregation**: Standardize state management for strict environment-wise deployments.
 - [x] **CI/CD Automation**: Implement deployment pipelines (e.g., GitHub Actions, Azure DevOps, GitLab CI) for automated, hands-free infrastructure provisioning.

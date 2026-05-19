@@ -27,8 +27,7 @@ variable "nsg" {
   type = map(object({
     name     = string
     location = string
-
-  security_rule = map(object({
+    security_rule = map(object({
       name                       = string
       priority                   = number
       direction                  = string
@@ -39,5 +38,5 @@ variable "nsg" {
       source_address_prefix      = string
       destination_address_prefix = string
     }))
-  })) 
-} 
+  }))
+}

@@ -1,13 +1,3 @@
-variable "name" {
-  type        = list(string)
-  description = "Name of the resource group"
-
-}
-
-variable "location" {
-  type = list(string)
-}
-
 
 variable "rgName" {
   type = map(object({
@@ -16,7 +6,6 @@ variable "rgName" {
   }))
   description = "Name of the Resource Group"
 }
-
 
 variable "vnet_hcl" {
   type = map(object({
@@ -30,8 +19,16 @@ variable "vnet_hcl" {
       address_prefixes = list(string)
       security_group   = string
     }))
+  }))
+  description = "Name of the Virtual Network"
+}
 
-    security_rule = map(object({
+variable "nsg" {
+  type = map(object({
+    name     = string
+    location = string
+
+  security_rule = map(object({
       name                       = string
       priority                   = number
       direction                  = string
@@ -42,6 +39,5 @@ variable "vnet_hcl" {
       source_address_prefix      = string
       destination_address_prefix = string
     }))
-  }))
-  description = "Name of the Virtual Network"
-}
+  })) 
+} 

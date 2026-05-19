@@ -1,9 +1,3 @@
-name = ["dev", "prod"] # Terraform reads index valuse with 0,1,2,3......[0]
-#         0       1       2
-
-location = ["central india", "east us"]
-
-
 # For each variables defined
 rgName = {
   rg1 = {
@@ -35,6 +29,33 @@ vnet_hcl = {
         security_group   = "nsg-hcl-dev"
       }
     }
+  },
+  v2 = {
+    name          = "hcl-test",
+    address_space = ["10.0.0.0/16"],
+    dns_servers   = ["10.0.0.4", "10.0.0.5"],
+    location      = "west us"
+
+    subnet = {
+      subnet1 = {
+        name             = "frontend"
+        address_prefixes = ["10.0.1.0/24"]
+        security_group   = "nsg-hcl-test"
+      },
+      subnet2 = {
+        name             = "backend"
+        address_prefixes = ["10.0.2.0/24"]
+        security_group   = "nsg-hcl-test"
+      }
+    }
+  }
+}
+
+
+nsg = {
+  nsg1 = {
+    name     = "nsg-hcl-dev"
+    location = "central india"
 
     security_rule = {
       rule1 = {
@@ -61,25 +82,9 @@ vnet_hcl = {
       }
     }
   },
-  v2 = {
-    name          = "hcl-test",
-    address_space = ["10.0.0.0/16"],
-    dns_servers   = ["10.0.0.4", "10.0.0.5"],
-    location      = "west us"
-
-    subnet = {
-      subnet1 = {
-        name             = "frontend"
-        address_prefixes = ["10.0.1.0/24"]
-        security_group   = "nsg-hcl-test"
-      },
-      subnet2 = {
-        name             = "backend"
-        address_prefixes = ["10.0.2.0/24"]
-        security_group   = "nsg-hcl-test"
-      }
-    }
-
+  nsg2 = {
+    name     = "nsg-hcl-test"
+    location = "west us"
     security_rule = {
       rule1 = {
         "name"                       = "rule1"

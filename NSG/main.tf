@@ -6,7 +6,7 @@ resource "azurerm_network_security_group" "nsg_hcl" {
   resource_group_name = "rg-${each.value.name}"
 
   dynamic "security_rule" {
-    for_each = each.value.security_rule
+    for_each = var.nsg.security_rule
     content {
       name                       = security_rule.value.name
       priority                   = security_rule.value.priority

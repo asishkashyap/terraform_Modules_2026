@@ -1,3 +1,4 @@
+
 # below code is for creating virtual network
 resource "azurerm_virtual_network" "vnet_block_forEach" {
   for_each            = var.vnet_hcl
@@ -9,7 +10,7 @@ resource "azurerm_virtual_network" "vnet_block_forEach" {
 
   dynamic "subnet" {
     for_each = each.value.subnet
-    content  {
+    content {
       name             = subnet.value.name
       address_prefixes = subnet.value.address_prefixes
       security_group   = azurerm_network_security_group.nsg_hcl[each.key].id

@@ -5,9 +5,9 @@ module "rg" {
 
 
 module "nsg" {
-  depends_on    = [module.rg]
-  source        = "../../NSG"
-  nsg = var.nsg
+  depends_on = [module.rg]
+  source     = "../../NSG"
+  nsg        = var.nsg
 }
 
 module "vnet" {
@@ -15,5 +15,3 @@ module "vnet" {
   source     = "../../VNET"
   vnet_hcl   = var.vnet_hcl
 }
-
-

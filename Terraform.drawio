@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="hUKJ1crR5F_qVZzrWe5w">
-    <mxGraphModel dx="5553" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1522,6 +1522,132 @@
         </mxCell>
         <mxCell id="ux7TMU9cvybq_urdEAuv-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Automation can only be done for manual works" vertex="1">
           <mxGeometry height="50" width="117.37" x="172.46" y="11980" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-6" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-15" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-27" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-32" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-36" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-38" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Triggers" vertex="1">
+          <mxGeometry height="60" width="120" x="434.25999999999993" y="13040" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="436.18" y="13040" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Azure Pipelines" vertex="1">
+          <mxGeometry height="20" width="92.49" x="453.25" y="13040" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-8" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="None" vertex="1">
+          <mxGeometry height="20" width="80.36" x="250.09999999999997" y="13320" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-11" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Pipeline will always be triggered manually or triggered externally" vertex="1">
+          <mxGeometry height="70" width="121.55" x="238.90999999999997" y="13430" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-13" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;strokeColor=#C73500;" value="HTTP Triggers - ADO API&amp;nbsp; with token" vertex="1">
+          <mxGeometry height="30" width="140.85" x="228.47999999999996" y="13550" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;strokeColor=#C73500;" value="For e.g. Logic Apps, Event Grid, Function Apps......" vertex="1">
+          <mxGeometry height="50" width="130.77" x="255.59" y="13620" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-23" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="main" vertex="1">
+          <mxGeometry height="30" width="107.93" x="373.21" y="13320" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-19" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="0HuvuqD2k_8cIIAiKp29-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190.45999999999998" y="13320" />
+              <mxPoint x="190.45999999999998" y="13648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-20" connectable="0" parent="0HuvuqD2k_8cIIAiKp29-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="New Version&lt;br&gt;&amp;nbsp;of App" vertex="1">
+          <mxGeometry relative="1" x="-0.0544" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Developer" vertex="1">
+          <mxGeometry height="60" width="30" x="144.04000000000002" y="13290" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-21" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" target="0HuvuqD2k_8cIIAiKp29-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390.46" y="13635" />
+              <mxPoint x="390.46" y="13454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-25" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Agar kuch bhi repo me koi new PR merge hui, pipeline chal padegi automatically" vertex="1">
+          <mxGeometry height="80" width="129.89" x="410.58" y="13390" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;strokeColor=#C73500;" value="Infra Pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="423.705" y="13510" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-29" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0HuvuqD2k_8cIIAiKp29-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Path based triggers&lt;br&gt;&lt;div&gt;.../manifest/k8s/*&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="94.45" x="536.72" y="13317.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="When there are many pipelines present in a single repo" vertex="1">
+          <mxGeometry height="70" width="123.85" x="556.62" y="13420" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Branch based triggers.....trigger branch other than main." vertex="1">
+          <mxGeometry height="80" width="130" x="708.57" y="13310" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Tags based&lt;br&gt;&lt;br&gt;Ghar me mehmaan ka swagat" vertex="1">
+          <mxGeometry height="60" width="120" x="628.9799999999999" y="13160" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-37" parent="1" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;rounded=1;fontColor=#ffffff;" value="CI---&amp;gt;CD" vertex="1">
+          <mxGeometry height="60" width="120" x="191.60999999999996" y="13170" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-44" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" target="0HuvuqD2k_8cIIAiKp29-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Terraform Init Job" vertex="1">
+          <mxGeometry height="30" width="103.08" x="128.65" y="13830" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-45" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" target="0HuvuqD2k_8cIIAiKp29-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Terraform Plan Job" vertex="1">
+          <mxGeometry height="40" width="111.93" x="348.02000000000004" y="13825" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Terraform Apply Job" vertex="1">
+          <mxGeometry height="35" width="104.62" x="564.92" y="13827.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Infra Pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="347.68" y="13710" as="geometry" />
+        </mxCell>
+        <mxCell id="0HuvuqD2k_8cIIAiKp29-43" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" target="0HuvuqD2k_8cIIAiKp29-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

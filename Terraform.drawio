@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="hUKJ1crR5F_qVZzrWe5w">
-    <mxGraphModel dx="1609" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1648,6 +1648,27 @@
         </mxCell>
         <mxCell id="0HuvuqD2k_8cIIAiKp29-43" edge="1" parent="1" source="0HuvuqD2k_8cIIAiKp29-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" target="0HuvuqD2k_8cIIAiKp29-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-3" edge="1" parent="1" source="UTZG17FM2_FkYurCiRcr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UTZG17FM2_FkYurCiRcr-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-5" edge="1" parent="1" source="UTZG17FM2_FkYurCiRcr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UTZG17FM2_FkYurCiRcr-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-7" edge="1" parent="1" source="UTZG17FM2_FkYurCiRcr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UTZG17FM2_FkYurCiRcr-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DevOps Roles" vertex="1">
+          <mxGeometry height="60" width="120" x="445.5" y="13950" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="You work as devOps engineers- You will deploy infra, mange, cicd...." vertex="1">
+          <mxGeometry height="110" width="130.58" x="289.42" y="14050" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="SRE - Site Reliability Engg. - Production Smabhalna - Spokeperson&lt;br&gt;FIX --&amp;gt; RCA --&amp;gt; Permanent fix" vertex="1">
+          <mxGeometry height="110" width="126.62" x="442.19" y="14050" as="geometry" />
+        </mxCell>
+        <mxCell id="UTZG17FM2_FkYurCiRcr-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Platform Engineer -&lt;br&gt;Develops the system - IDPs (Internal Developer Portals), cicd, Sonar Qube, designing.....Product company&amp;nbsp; ---IC role" vertex="1">
+          <mxGeometry height="110" width="125.02" x="625.38" y="14050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

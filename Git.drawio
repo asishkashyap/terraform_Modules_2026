@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JHK_G6qxQndTQ78P4Jss">
-    <mxGraphModel dx="1187" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,6 +362,117 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V4zc2pOdH6yKVE45ohv0-57" edge="1" parent="1" source="V4zc2pOdH6yKVE45ohv0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" target="V4zc2pOdH6yKVE45ohv0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-6" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZJCdqaEz1-dTPmoxzooQ-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" value="Git Commands" vertex="1">
+          <mxGeometry height="30" width="92.5" x="221.25" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-4" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZJCdqaEz1-dTPmoxzooQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="Git Concepts" vertex="1">
+          <mxGeometry height="30" width="101.25" x="78.75" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-12" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZJCdqaEz1-dTPmoxzooQ-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="Git Advance Scenarios" vertex="1">
+          <mxGeometry height="30" width="92.5" x="364.38" y="3600" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-8" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Git merge/rebase - both commands are not mandatory to run, &lt;br&gt;except if there is dependency of your work/task." vertex="1">
+          <mxGeometry height="160" width="442.5" x="477.5" y="3070" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Git merge conflicts" vertex="1">
+          <mxGeometry height="80" width="80" x="490" y="3650" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-20" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ZJCdqaEz1-dTPmoxzooQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-21" connectable="0" parent="ZJCdqaEz1-dTPmoxzooQ-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="git checkout -b new-branch" vertex="1">
+          <mxGeometry relative="1" x="0.475" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-22" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZJCdqaEz1-dTPmoxzooQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-23" connectable="0" parent="ZJCdqaEz1-dTPmoxzooQ-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="git checkout -b new-branch" vertex="1">
+          <mxGeometry relative="1" x="0.3344" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-13" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Teacher_Info.txt" vertex="1">
+          <mxGeometry height="100" width="100.63" x="272.5" y="3760" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-14" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="45" x="178.75" y="3700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-15" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZJCdqaEz1-dTPmoxzooQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-30" connectable="0" parent="ZJCdqaEz1-dTPmoxzooQ-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value=".git" vertex="1">
+          <mxGeometry relative="1" x="-0.0123" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-16" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" value="" vertex="1">
+          <mxGeometry height="65" width="24.05" x="184.22" y="3890" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-17" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;labelBackgroundColor=#6d8764;fontColor=#ffffff;labelBorderColor=#3A5431;" value="" vertex="1">
+          <mxGeometry height="65" width="24.05" x="430.75" y="3875" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="30" width="60" x="166.25" y="3930" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="30" width="60" x="412.77" y="3930" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-27" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZJCdqaEz1-dTPmoxzooQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Best teacher is Aman sir" vertex="1">
+          <mxGeometry height="30" width="147.5" x="130" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Best teacher is Ashish sir" vertex="1">
+          <mxGeometry height="30" width="147.5" x="383.75" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-26" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZJCdqaEz1-dTPmoxzooQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="git add *&lt;br&gt;git commit&lt;br&gt;git push&lt;br&gt;PR raised" vertex="1">
+          <mxGeometry height="60" width="67.5" x="162.49" y="4020" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="git add *&lt;br&gt;git commit&lt;br&gt;git push&lt;br&gt;PR raised" vertex="1">
+          <mxGeometry height="60" width="67.5" x="437.5" y="4020" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-39" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZJCdqaEz1-dTPmoxzooQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-31" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/meeting.svg;" value="" vertex="1">
+          <mxGeometry height="110" width="120.88" x="256.31" y="4100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="30" width="60" x="253.5" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="30" width="60" x="324.75" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Take Left commit" vertex="1">
+          <mxGeometry height="30" width="126.25" x="106.75" y="4210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="Take Right commit" vertex="1">
+          <mxGeometry height="30" width="126.25" x="414.25" y="4210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" value="Merge Both" vertex="1">
+          <mxGeometry height="30" width="126.25" x="266.12" y="4260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-37" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.419;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZJCdqaEz1-dTPmoxzooQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJCdqaEz1-dTPmoxzooQ-38" edge="1" parent="1" source="ZJCdqaEz1-dTPmoxzooQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZJCdqaEz1-dTPmoxzooQ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

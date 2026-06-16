@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JHK_G6qxQndTQ78P4Jss">
-    <mxGraphModel dx="1675" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3560" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J8olexL7CkZPTWbFOTay-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="360" width="380" x="170" y="6770" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="210" width="165.08" x="595" y="6820" as="geometry" />
+        </mxCell>
         <mxCell id="0aPEmwttRZegLZR7n0QQ-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="360" width="584.12" x="45.88" y="4890" as="geometry" />
         </mxCell>
@@ -756,6 +762,109 @@
               <mxPoint x="485" y="5988" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-7" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" target="J8olexL7CkZPTWbFOTay-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="What is importance of Pipelines?" vertex="1">
+          <mxGeometry height="50" width="201.25" x="253.13" y="6580" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Automation Karti&lt;br&gt;- jo kam manually ho skta hai" vertex="1">
+          <mxGeometry height="60" width="120" x="250.005" y="6700" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-11" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f0a30a;strokeColor=#BD7000;" target="J8olexL7CkZPTWbFOTay-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="GitHub Actions" vertex="1">
+          <mxGeometry height="40" width="100" x="213.75" y="6790" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-13" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" target="J8olexL7CkZPTWbFOTay-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="Azure Devops" vertex="1">
+          <mxGeometry height="40" width="100" x="385.63" y="6790" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-15" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f0a30a;strokeColor=#BD7000;" target="J8olexL7CkZPTWbFOTay-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Event driven approach" vertex="1">
+          <mxGeometry height="80" width="80" x="223.75" y="6880" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-19" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" target="J8olexL7CkZPTWbFOTay-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="Code driven Approach" vertex="1">
+          <mxGeometry height="80" width="80" x="395.63" y="6880" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Workflows" vertex="1">
+          <mxGeometry height="30" width="116.25" x="205.63" y="7000" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-20" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="7030.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="New Commit par Pipeline chalti" vertex="1">
+          <mxGeometry height="35" width="102.5" x="378.75" y="6990" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="PR raised" vertex="1">
+          <mxGeometry height="30" width="101.25" x="378.75" y="7040" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="scheduled run" vertex="1">
+          <mxGeometry height="30" width="101.25" x="378.75" y="7080" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="IAM pipeline&amp;nbsp;&lt;br&gt;&lt;br&gt;Permissions - App Registration" vertex="1">
+          <mxGeometry height="60" width="120" x="607.27" y="6840" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Dev" vertex="1">
+          <mxGeometry height="40" width="47.73" x="625" y="6930" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="TEST" vertex="1">
+          <mxGeometry height="40" width="47.73" x="691.13" y="6930" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="PRD" vertex="1">
+          <mxGeometry height="40" width="47.73" x="652.5" y="6980" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-25" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" value="" vertex="1">
+          <mxGeometry height="10" width="9.84" x="643.95" y="6930" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-26" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" value="" vertex="1">
+          <mxGeometry height="10" width="9.84" x="671.45" y="6980" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-27" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" value="" vertex="1">
+          <mxGeometry height="10" width="9.84" x="710.08" y="6920" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="on" vertex="1">
+          <mxGeometry height="60" width="120" x="306.25" y="7320" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-31" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J8olexL7CkZPTWbFOTay-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.75" y="7320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-34" connectable="0" parent="J8olexL7CkZPTWbFOTay-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Azure DevOps" vertex="1">
+          <mxGeometry relative="1" x="0.2374" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" value="Triggers of Pipelines" vertex="1">
+          <mxGeometry height="60" width="120" x="403" y="7190" as="geometry" />
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-30" edge="1" parent="1" source="J8olexL7CkZPTWbFOTay-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.351;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" target="J8olexL7CkZPTWbFOTay-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348.75" y="7220" />
+              <mxPoint x="348.75" y="7285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-33" connectable="0" parent="J8olexL7CkZPTWbFOTay-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GitHub Actions&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.1136" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8olexL7CkZPTWbFOTay-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="trigger: main" vertex="1">
+          <mxGeometry height="60" width="120" x="532.5" y="7320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
